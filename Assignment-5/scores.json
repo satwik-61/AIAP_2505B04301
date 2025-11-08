@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Sunny",
+    "gender": "Male",
+    "feature1": 35.0,
+    "feature2": 20.0,
+    "feature3": 22.0,
+    "total_score": 77.0
+  },
+  {
+    "name": "Sam",
+    "gender": "Female",
+    "feature1": 36.0,
+    "feature2": 26.0,
+    "feature3": 13.0,
+    "total_score": 75.0
+  },
+  {
+    "name": "Lally",
+    "gender": "Other",
+    "feature1": 12.0,
+    "feature2": 17.0,
+    "feature3": 26.0,
+    "total_score": 55.0
+  },
+  {
+    "name": "Puja",
+    "gender": "Female",
+    "feature1": 39.0,
+    "feature2": 29.0,
+    "feature3": 21.0,
+    "total_score": 89.0
+  },
+  {
+    "name": "Piyush",
+    "gender": "Male",
+    "feature1": 21.0,
+    "feature2": 22.0,
+    "feature3": 16.0,
+    "total_score": 59.0
+  }
+]

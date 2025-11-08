@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Honey",
+    "gender": "Male",
+    "years_experience": 10.0,
+    "education": "High School",
+    "skills": [
+      "python",
+      "java"
+    ],
+    "required_skills": [
+      "java",
+      "python",
+      "css",
+      "javascript"
+    ],
+    "interview_score": 21.0,
+    "application_date": "2025-11-08 13:39:34",
+    "score": 50.0
+  },
+  {
+    "name": "Nani",
+    "gender": "Female",
+    "years_experience": 15.0,
+    "education": "Master's",
+    "skills": [
+      "Java",
+      "css",
+      "html",
+      "python",
+      "mysql"
+    ],
+    "required_skills": [
+      "Java",
+      "css",
+      "javascript",
+      "mysql",
+      "cloud",
+      ".net",
+      "reactjs"
+    ],
+    "interview_score": 18.0,
+    "application_date": "2025-11-08 13:40:56",
+    "score": 68.0
+  }
+]

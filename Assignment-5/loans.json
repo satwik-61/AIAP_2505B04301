@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Chittimalla Pujitha",
+    "gender": "Female",
+    "age": 21,
+    "income": 30000.0,
+    "credit_score": 550,
+    "employment_status": "Employed",
+    "loan_purpose": "Education",
+    "loan_amount": 200000.0,
+    "application_date": "2025-11-08 10:52:32",
+    "approved": false,
+    "approved_amount": 0,
+    "interest_rate": 0,
+    "loan_tenure": 0,
+    "monthly_payment": 0,
+    "reason": "Credit score too low (550). Minimum required: 600.",
+    "application_id": "LOAN-20251108105232"
+  },
+  {
+    "name": "John Doe",
+    "gender": "Male",
+    "age": 50,
+    "income": 800000.0,
+    "credit_score": 800,
+    "employment_status": "Employed",
+    "loan_purpose": "Home Purchase",
+    "loan_amount": 1000000.0,
+    "application_date": "2025-11-08 11:13:36",
+    "approved": true,
+    "approved_amount": 1000000.0,
+    "interest_rate": 6.5,
+    "loan_tenure": 10,
+    "monthly_payment": 13750.0,
+    "reason": "Loan approved based on eligibility criteria.",
+    "application_id": "LOAN-20251108111336"
+  }
+]
